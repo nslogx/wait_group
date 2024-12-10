@@ -1,6 +1,4 @@
-# WaitGroup - A Dart Implementation Inspired by Golang's WaitGroup
-
----
+[![pub points](https://img.shields.io/pub/points/wait_group?color=2E8B57&label=pub%20points)](https://pub.dev/packages/wait_group/score) [![pub package](https://img.shields.io/pub/v/wait_group.svg)](https://pub.dev/packages/wait_group)
 
 ## 📚 Project Overview
 
